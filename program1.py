@@ -8,10 +8,10 @@ def printer():
 printer()
 
 
-def printer1(a):
-    print("My First Parameterized Definition call"+a)
+def printer1(NewName):
+    print("My First Parameterized Definition call"+NewName)
 
 
 printer1("Sairam")
 
-Added NewLine
+
